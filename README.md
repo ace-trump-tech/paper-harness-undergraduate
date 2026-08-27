@@ -4,7 +4,7 @@
 
 **面向本科毕业论文与科研初学者的研究工作台**
 
-[简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
+
 
 </div>
 
@@ -19,7 +19,7 @@
   <a href="docs/undergraduate-edition-zh.md">工作流说明</a> · 
   <a href="demo/index.html">离线 Demo</a>
 </p>
-
+[简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 ## 🎯 这个仓库解决什么问题？
 
 老师给了你一个题目，但你不知道：
