@@ -10,6 +10,16 @@
 
 ---
 
+<p align="center">
+  <img src="demo/stem_pipeline.svg" alt="undergraduate thesis workflow" width="900">
+</p>
+
+<p align="center">
+  <a href="docs/getting-started-zh.md">从零开始教程</a> · 
+  <a href="docs/undergraduate-edition-zh.md">工作流说明</a> · 
+  <a href="demo/index.html">离线 Demo</a>
+</p>
+
 ## 🎯 这个仓库解决什么问题？
 
 老师给了你一个题目，但你不知道：
@@ -143,13 +153,3 @@ tests/               无网络单元测试
 </div>
 
 ---
-
-<p align="center">
-  <img src="demo/stem_pipeline.svg" alt="undergraduate thesis workflow" width="900">
-</p>
-
-<p align="center">
-  <a href="docs/getting-started-zh.md">从零开始教程</a> · 
-  <a href="docs/undergraduate-edition-zh.md">工作流说明</a> · 
-  <a href="demo/index.html">离线 Demo</a>
-</p>
